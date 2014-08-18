@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-zip": "*",
+    "gulp-foreach": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "private": true
+}
