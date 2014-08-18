@@ -4,7 +4,7 @@ This example is a part of [Recipes in gulp.js Handbook](https://github.com/cogni
 
 It aims to be a smallest project that works with gulp.js and CoffeeScript.
 
-![screenshot](../image/01-coffee-photos.png)
+![screenshot](image/screenshot.png)
 
 ## Install
 
