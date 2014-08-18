@@ -8,6 +8,8 @@ It aims to be a smallest project that works with gulp.js and CoffeeScript.
 
 ## Install
 
+[Download this example](https://github.com/cognitom/gulp-handbook-recipes/raw/master/download/01-coffee-photos.zip).
+
 ```bash
 $ cd path/to/01-coffee-photos/
 $ npm install
