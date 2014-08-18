@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cssimport": "*",
+    "gulp-minify-css": "*",
+    "gulp-rename": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "private": true
+}
