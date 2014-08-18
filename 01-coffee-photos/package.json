@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-coffee": "*",
+    "gulp-concat": "*",
+    "gulp-uglify": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "private": true
+}
