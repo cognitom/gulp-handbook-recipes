@@ -1,6 +1,6 @@
 # Coffee Photos
 
-This example is a part of [Recipes in gulp.js Handbook](../).
+This example is a part of [Recipes in gulp.js Handbook](https://github.com/cognitom/gulp-handbook-recipes/).
 
 It aims to be a smallest project that works with gulp.js and CoffeeScript.
 
